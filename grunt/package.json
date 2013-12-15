@@ -1,0 +1,9 @@
+{
+  "name": "grunt-sample",
+  "version": "1.0.0",
+  "description": "Grunt Sample",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-jslint": "~1.1.2"
+  }
+}
